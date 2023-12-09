@@ -1,4 +1,4 @@
-[! [MasterHead](https://tenor.com/bzQqX.gif)
+
 <h1 align="center">Hi 👋, I'm Ayşenur</h1>
 <h3 align="center">A passionate cyber security analyst from Turkey</h3>
 
