@@ -1,57 +1,78 @@
-<h1 align="center">Hi there 👋, I'm Ayşenur Ekiz</h1>
-<h3 align="center">Cybersecurity Enthusiast | Computer Engineering Student | Lifelong Learner</h3>
+<h1 align="center">Hi there 👋 I'm Ayşenur Ekiz</h1>
+<h3 align="center">Cybersecurity Explorer | Computer Engineering Student | Force-sensitive Coder 🪐</h3>
 
 ---
 
-🎓 I'm a third-year Computer Engineering student at **Çukurova University**, passionate about **cybersecurity** and **game design**.  
-🛡️ I enjoy learning about network security, ethical hacking, and system-level programming.  
-🧠 Currently focused on **C++**, **Python**, and **data analysis**.  
-📖 I love writing technical content to help others learn what I'm learning.
+✨ "A long time ago in a galaxy not so far away...  
+Ayşenur started her journey in the world of cybersecurity."
 
 ---
 
-### 🔗 Connect with Me
+### 👩‍💻 About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayşenur%20Ekiz-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/ayşenur-ekiz-29a2b3228/)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?logo=medium&style=flat-square)](https://medium.com/@nurekizayse)
-📧 **nurekizayse@gmail.com**
+- 🎓 3rd-year Computer Engineering student at **Çukurova University**  
+- 🛡️ Passionate about **cybersecurity**, **game development**, and **ethical hacking**  
+- 📊 Worked on wildfire data analysis & sustainability projects (TÜBİTAK, Turkcell)  
+- ✍️ Loves creating tech content on [Medium](https://medium.com/@nurekizayse)
 
 ---
 
-### 💻 Languages and Tools
+### 📂 Download My Resume
+📄 [Click here to view my full CV (PDF)](https://github.com/monierrioir/monierrioir/blob/main/Ayşenur_%20Ekiz_resume.pdf)
+
+---
+
+### 🔗 Let's Connect
+
+[![LinkedIn Badge](https://img.shields.io/badge/-Ayşenur%20Ekiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayşenur-ekiz-29a2b3228/)](https://www.linkedin.com/in/ayşenur-ekiz-29a2b3228/)  
+[![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@nurekizayse)](https://medium.com/@nurekizayse)  
+[![Gmail Badge](https://img.shields.io/badge/-nurekizayse@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nurekizayse@gmail.com)](mailto:nurekizayse@gmail.com)
+
+---
+
+### ⚙️ Languages & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" alt="Illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="Unity" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-line.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40"/>
 </p>
+
+---
+
+### 🚀 Projects & Highlights
+
+- 🔥 **Wildfire Data Analysis (TÜBİTAK)** – Satellite data visualizations for fire patterns  
+- ♻️ **Turkcell Sustainability Project** – AI-enhanced recycling systems  
+- 💻 **Cybersecurity & APT Tools** – Research & blog series on [Medium](https://medium.com/@nurekizayse)  
+- 🧠 **Hackathons & Datathons** – BTK Akademi, Teknofest
 
 ---
 
 ### ✍️ Latest Blog Posts
 
-- 🔐 [Cybersecurity Basics for Students](https://medium.com/@nurekizayse)
-- 🧩 [How I Started with C++](https://medium.com/@nurekizayse)
-- 🕵️‍♀️ [My Learning Path in Network Security](https://medium.com/@nurekizayse)
-
-*(Click on the links to read more on Medium)*
+- 🛡️ *Cybersecurity Basics for Students*  
+- 🧩 *How I Started with C++ and Never Looked Back*  
+- ⚔️ *Digital Defense 101: A New Hope Against Hackers*  
+➡️ See more at [medium.com/@nurekizayse](https://medium.com/@nurekizayse)
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monierrioir&show_icons=true&theme=tokyonight" alt="Ayşenur's GitHub stats"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monierrioir&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=monierrioir&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monierrioir&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ### ⚡ Fun Fact
 
-> ☕ I turn caffeine into code and dreams into algorithms.
+> “May the source be with you.” 🌌  
+> I code better when the coffee is strong and the Wi-Fi is stronger ☕📡
